@@ -1,0 +1,12 @@
+/*.badge1,.badge2,.badge3{background-image:url('img/sprites.png?v=6');background-repeat:no-repeat;overflow:hidden;}
+.badge1,.badge2,.badge3{display:inline-block;width:6px;height:11px;overflow:hidden;line-height:inherit;background-position:-40px -1034px;vertical-align:text-bottom;margin:0 1px 1px 3px;}.badge2{background-position:-20px -1034px;}.badge3{background-position:0px -1034px;} */
+
+.sbadge,.bbadge,.gbadge,.badge{color:#000 !important;background-color:#000;border:1px solid #333;margin:0 3px 3px 0;padding:0px 6px 0px 3px;display:inline-block;text-decoration:none;white-space:nowrap;line-height:24px;-moz-border-radius:6px;-webkit-border-radius:6px;border-radius:6px;}.badge:hover,.sbadge:hover,.gbadge:hover,.bbdage:hover{ border:1px solid #555;background-color:#FFF;text-decoration:none;}
+.gbadge{background-color:#FFFF66}
+.sbadge{background-color:#F0F0F0}
+.bbadge{background-color:#D98719}
+
+
+
+
+/*.badge-tag:hover{color:#fff !important;border:2px solid #555;}.badge-tag{color:#333 !important;border:2px solid #333;background-color:#eee;}.badgecount{padding-left:1px;color:#808185;}.badgeawardedcount{font-size:45px;font-weight:bold;color:#808185;font-family:Arial,Liberation Sans,DejaVu Sans,sans-serif;}span.diff-delete{text-decoration:line-through;color:#A82400;background-color:#E5BDB2;} */
