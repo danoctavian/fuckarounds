@@ -1,0 +1,7 @@
+run
+ghc hughTransform
+./hughTransform matrixA A
+./hughTransform matrixB B
+./hughTransform matrixC B
+
+to choose matrix file and which compatibilty mapping A or B (hardcoded in the program)
