@@ -1,0 +1,14 @@
+dht lib
+tracker communication
+torrent file parsing
+peer to peer communcation
+
+multi torrenting?
+given that one needs to fetch multiple torrent at the same time does it reuse the same connection with that peer? probably yes, in which case one cannot have complete independece between torrent jobs. let there be a common pool of peer connections - with that in common, the rest of the stuff is independent
+
+if has_torrent_file:
+  if trackerless:
+    find peer through dht
+  else 
+    find peer from tracker
+else 

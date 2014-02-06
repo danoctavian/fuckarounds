@@ -1,0 +1,6 @@
+There's all this talk about everybody spying on you. It's probably true. I also know it's quite hard to hide. So let's not!
+
+Given the issue that having a large set of data about you (activities/personal info), an entity could do build a model of you and perhaps use it for evil, make it impossible for that entity to make sense of your data and get real image of you.
+
+For starters, for this purpose I am working on piece of software running client side that specifically targets google and its services, meant to generate randomized but plausible searches, activity, location and others to essentially flood them with data so that they cannot distinguish what is real and what is fake. 
+
